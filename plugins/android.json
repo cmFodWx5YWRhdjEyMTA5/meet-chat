@@ -1,0 +1,54 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.meet.chat"
+        },
+        "cordova-plugin-admobpro": {
+            "PACKAGE_NAME": "com.meet.chat"
+        },
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "com.meet.chat"
+        },
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "com.meet.chat"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "com.meet.chat"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "com.meet.chat"
+        },
+        "cordova-plugin-extension": {
+            "PACKAGE_NAME": "com.meet.chat"
+        },
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "com.meet.chat"
+        },
+        "cordova-plugin-file-transfer": {
+            "PACKAGE_NAME": "com.meet.chat"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "com.meet.chat"
+        },
+        "cordova-plugin-pdialog": {
+            "PACKAGE_NAME": "com.meet.chat"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "com.meet.chat"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "com.meet.chat"
+        },
+        "ionic-plugin-keyboard": {
+            "PACKAGE_NAME": "com.meet.chat"
+        }
+    },
+    "dependent_plugins": {}
+}
